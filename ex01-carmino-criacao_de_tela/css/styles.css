@@ -1,0 +1,45 @@
+body{
+    background-color: #0c5b9d !important
+}
+
+
+
+/*NAVBAR INICIO*/
+.nav-inicio{
+    background-color: #e3f2fd
+}
+
+
+.nav-inicio a{
+    color: #0c5b9d
+}
+/*_____________________________________*/
+
+
+
+/*FORMS*/
+.div-forms{
+    margin-right: 0px !important; 
+    color: white;
+}
+/*_____________________________________*/
+
+
+
+/*NAVBAR FIM*/ 
+
+.container{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+
+.btn{
+    background-color: #0c5b9d !important;
+
+}
+
+.btn:hover{
+    background-color: #02243f !important;
+}
+/*_____________________________________*/
